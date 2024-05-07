@@ -1,0 +1,54 @@
+#first {
+    background-image: url("Untit.jpeg");
+    background-repeat:no no-repeat ;
+
+}
+body{
+    height: 100vh;
+    
+}
+img{
+    border-color: rgb(2, 2, 2);
+}
+.aaa{
+    margin-left : 90%;
+}
+.overview{
+    background-color:;
+    
+}
+.vl {
+    border-left: 6px solid green;
+    height: 230px;
+    position: absolute;
+    left: 50%;
+    margin-left: 3px;
+    
+}
+.first h1
+{
+    color: red;
+}
+.overview img
+{
+    float: right;
+    border-radius: 10%;
+    padding-top: 12px;
+}
+.container-fluid img
+{
+    color: blueviolet;
+}
+.project{
+    background-color: rgba(0, 0, 255, 0.297);
+}
+.button:focus {
+    outline-color: blue;
+    outline-style:blue
+;
+    box-shadow: 0 0 0 4px #5a01a7;
+}
+.queries{
+    background-color: burlywood;
+    border-radius: 50%;
+}
